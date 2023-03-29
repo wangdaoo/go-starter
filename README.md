@@ -60,6 +60,13 @@
   - [x] [10. rw_mutex_demo](./ch5/rw_mutex_demo/main.go)
   - [x] [11. waitgroup](./ch5/waitgroup/main.go)
 
+- [x] [ch6](./ch6)
+
+  - [x] [01. io](./ch6/io/main.go)
+  - [x] [02. bufio](./ch6/bufio/main.go)
+  - [x] [03. bufio_scanner](./ch6/bufio_scanner/main.go)
+  - [x] [04. log](./ch6/log/main.go)
+
 ## Clone
 
 ```bash
