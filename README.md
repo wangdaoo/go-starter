@@ -66,6 +66,7 @@
   - [x] [02. bufio](./ch6/bufio/main.go)
   - [x] [03. bufio_scanner](./ch6/bufio_scanner/main.go)
   - [x] [04. log](./ch6/log/main.go)
+  - [x] [05. builtin](./ch6/builtin/main.go)
 
 ## Clone
 
