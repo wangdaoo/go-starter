@@ -68,6 +68,7 @@
   - [x] [04. log](./ch6/log/main.go)
   - [x] [05. builtin](./ch6/builtin/main.go)
   - [x] [06. bytes](./ch6/bytes/main.go)
+  - [x] [06. bytes_reader](./ch6/bytes_reader/main.go)
 
 ## Clone
 
